@@ -13,9 +13,9 @@ public class Get01_theBest {
  		And
  		    Response body is like
               {
-                    "firstname": "Emrah",
-                    "lastname": "Selek",
-                    "totalprice": 3500,
+                    "firstname": "Tugce",
+                    "lastname": "Ozkan",
+                    "totalprice": 5500,
                     "depositpaid": true,
                     "bookingdates": {
                                 "checkin": "2021-09-21",
