@@ -18,8 +18,8 @@ public class Get01_theBest {
                     "totalprice": 5500,
                     "depositpaid": true,
                     "bookingdates": {
-                                "checkin": "2021-09-21",
-                                "checkout": "2021-09-25"
+                                "checkin": "2021-09-25",
+                                "checkout": "2021-09-30"
                                },
                     "additionalneeds": "Dinner"
                 }
